@@ -18,5 +18,7 @@ Navigate to the specific algorithm directory and run the implementation files.
 
 ## Structure
 
-├── bencode/          # Bencode algorithm implementation
-└── kademlia/         # Kademlia DHT implementation
+```
+bencode/          # Bencode algorithm implementation
+kademlia/         # Kademlia DHT implementation
+```
